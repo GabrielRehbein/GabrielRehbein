@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gabriel Rehbein
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNOPAR)** e **Tecnologia em ADS (IFSul)**  
+🎓 Estudante de **Tecnologo em Análise e Desenvolvimento de Sistemas (IFSul)**  
 💻 Apaixonado por **Python**, **Django** e desenvolvimento backend  
-🚀 Explorando IA, Celery, APIs RESTful, Docker e automação  
+🚀 Explorando Celery, APIs RESTful, Docker, automação e IA
 
 ---
 
@@ -21,18 +21,19 @@
 
 ### Sistema de Gestão de Estoque (SGE)  
 Controle completo de estoque com dashboards, notificações no WhatsApp e IA para análise inteligente.  
-[Repositório →](https://github.com/seu_usuario/sge) *(substitua pelo link real)*
+[Repositório →](https://github.com/GabrielRehbein/SGE.git)
 
-### MinhAgenda  
-Plataforma de gestão de tarefas com notificações via WhatsApp e integração com IA.  
-[Repositório →](https://github.com/seu_usuario/minhagenda) *(substitua pelo link real)*
+### MyStock [Em desenvolvimento] - FREELANCER
+Plataforma de gestão de vendas e entregas com sistema de notificação quando estiver proximo do horario da entrega.  
+[Repositório →](PRIVADO)
+[Overview →](https://www.linkedin.com/posts/gabrielrehbeindev_python-django-fastapi-activity-7330804646501875712-ak_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExFk38ByWKi4XhY2mgtfMHU4zPuO-ULLNI)
 
 ---
 
 ## 📫 Contato
 
-📧 gabriel.rehbein.dev@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/gabrielrehbein) *(adicione se tiver)*  
+📧 gabrielrehbei@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/gabrielrehbeindev/)
 
 ---
 
