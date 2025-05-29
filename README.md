@@ -25,7 +25,8 @@ Controle completo de estoque com dashboards, notificações no WhatsApp e IA par
 
 ### MyStock [Em desenvolvimento] - FREELANCER
 Plataforma de gestão de vendas e entregas com sistema de notificação quando estiver proximo do horario da entrega.  
-[Repositório →](PRIVADO)
+Repositório → PRIVADO
+
 [Overview →](https://www.linkedin.com/posts/gabrielrehbeindev_python-django-fastapi-activity-7330804646501875712-ak_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExFk38ByWKi4XhY2mgtfMHU4zPuO-ULLNI)
 
 ---
